@@ -1,4 +1,5 @@
 Short Summary
+
 The dataset had 1465 entries and needed cleaning (removing ₹, %, commas).
 
 Numerical columns were scaled using Min-Max Scaling between 0 and 1.
